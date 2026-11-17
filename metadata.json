@@ -1,0 +1,6 @@
+{
+  "name": "Waters of Śrīvijaya",
+  "description": "A 3D historical maritime adventure and river-life simulation set along the golden-hour Musi River and Nusantara straits of the 9th-century Sriwijaya Empire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
